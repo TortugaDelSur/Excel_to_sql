@@ -1,4 +1,6 @@
 📊 Excel to Oracle SQL Migrator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Python-based utility that automates the transformation of multiple .xlsx files into SQL tables within an Oracle database. It intelligently detects column names and data types, generates CREATE TABLE statements, and populates the tables using INSERT INTO.
 
 ⚙️ Features
