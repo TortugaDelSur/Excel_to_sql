@@ -47,7 +47,7 @@ oracledb.init_oracle_client(lib_dir="C:/path/to/instantclient")
 🛠 How to Run
 - Place .xlsx files inside Organizador/ if you have another format put it on Excels (only supports csv)
 - Execute the script:
-    python migrator.py
+    python main.py
 
 - The console will show each CREATE TABLE execution and inserted records
 ✅ Data Safety
